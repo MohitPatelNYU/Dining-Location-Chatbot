@@ -5,7 +5,7 @@ LF_Fullfillment - used for collecting all the data from the user in order the se
 LF_Validation - used for validating that the data provided by customer is in the proper range and criteria.
 LF2 - used for getting the data from sqs and process the request so that the required response can be send to the user using SNS. The data is fetched based on the cuisine provided by the user in the ElasticSearch and then top 5 locations are fetched from DynamoDB.
 
-User Interface:
+**User Interface:**
 
 index.html - main frontend page
 index.js - intermediate between frontend and the API Calls
