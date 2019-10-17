@@ -1,4 +1,4 @@
-Lambda Funtions:
+**Lambda Funtions:**
 
 LF0 - used for interacting front end with the Lex bot which performs the Natural Language Processing.
 LF_Fullfillment - used for collecting all the data from the user in order the send the messsage to them using AWS SNS
